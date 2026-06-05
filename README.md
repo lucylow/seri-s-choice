@@ -1,4 +1,3 @@
-````markdown
 # Seri’s Choice
 
 A heuristic optimization system for the **Grand Shipyard Puzzle** — a large-scale block packing and scheduling problem inspired by real-world shipyard logistics.
